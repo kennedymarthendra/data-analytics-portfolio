@@ -43,6 +43,7 @@ To solve these challenges, an interactive dashboard was developed to transform r
 |-----------|-------|
 | Database | MySQL |
 | Data Visualization | Power BI |
+| Data Preparation | Power Query |
 | Data Modeling | DAX |
 | Data Source | Microsoft Excel |
 
