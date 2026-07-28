@@ -36,6 +36,7 @@ This project centralizes campaign data into interactive dashboards that provide 
 | Category | Tools |
 |-----------|-------|
 | Data Visualization | Power BI |
+| Data Preparation | Power Query |
 | Data Modeling | DAX |
 | Data Source | Microsoft Excel |
 
