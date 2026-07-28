@@ -2,45 +2,49 @@
 
 Welcome to my Data Analytics Portfolio!
 
-This repository showcases a collection of end-to-end data analytics projects developed using **Power BI, SQL, Microsoft Excel, and Power Query**. The projects demonstrate the complete analytics workflow—from raw data preparation and SQL-based data cleaning to interactive dashboard development and business insight generation.
+This repository showcases a collection of end-to-end data analytics projects developed using **Power BI, SQL, Microsoft Excel, and Power Query**. The projects demonstrate the complete analytics lifecycle—from raw data preparation and transformation to business reporting, interactive dashboard development, and actionable business insight generation.
 
-Each project is designed to solve real-world business problems by transforming raw data into meaningful insights that support data-driven decision making.
+Each project focuses on solving real-world business problems by transforming raw data into meaningful insights that support data-driven decision-making.
 
-The portfolio covers multiple industries including **Retail, E-commerce, Marketing, Human Resources, Food & Beverage, and Customer Analytics.**
+The portfolio covers multiple industries, including **Retail, Food & Beverage, E-commerce, Marketing, Human Resources, Customer Analytics, and Healthcare.**
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a Data Analyst with a background in Statistics who enjoys transforming raw data into actionable business insights.
+I'm a Data Analyst with a background in Statistics who is passionate about transforming raw data into meaningful business insights.
 
 My experience includes:
 
 - Data Cleaning & Preparation
 - SQL Data Cleaning
 - Exploratory Data Analysis (EDA)
+- Business Reporting
 - Dashboard Development
-- Business Performance Analysis
 - Sales Analytics
-- Marketing Analytics
 - Customer Analytics
+- Marketing Analytics
 - HR Analytics
+- Product Performance Analysis
+- Customer Retention Analysis
+- Cohort Analysis
 - KPI Monitoring
+- Business Intelligence
 - Data Storytelling
 
-I enjoy building analytical solutions that help stakeholders understand business performance, identify opportunities, and make data-driven decisions.
+I enjoy building analytical solutions that help stakeholders monitor business performance, identify growth opportunities, and make informed, data-driven decisions.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 | Category | Tools |
-|----------|---------|
+|-----------|--------|
 | Business Intelligence | Power BI |
 | Database | MySQL, SQL |
 | Spreadsheet | Microsoft Excel |
 | Data Preparation | Power Query |
-| Analytics | DAX |
+| Data Modeling | DAX |
 | Data Cleaning | SQL, Power Query |
 | Version Control | Git & GitHub |
 
@@ -48,16 +52,24 @@ I enjoy building analytical solutions that help stakeholders understand business
 
 # 📂 Featured Projects
 
-## 📈 Business Intelligence & Dashboard Projects
+## 📊 Business Intelligence & Dashboard Projects
 
 | Project | Business Domain | Tools |
 |----------|----------------|--------|
-| 🍕 Pizza Sales Analysis | Retail & Food | Power BI, Power Query, SQL, DAX |
-| ☕ Coffee Shop Sales Analysis | Retail | Power BI, Power Query, SQL, DAX |
+| 🍕 Pizza Sales Analysis | Retail & Food | Power BI, SQL, Power Query, DAX |
+| ☕ Coffee Shop Sales Analysis | Retail | Power BI, SQL, Power Query, DAX |
 | 🛒 Blinkit Sales Analysis | Retail & E-commerce | Power BI, Power Query, DAX |
 | 📦 Amazon Sales Analysis | E-commerce | Power BI, Power Query, DAX |
 | 📢 Meta Ads Performance Analysis | Digital Marketing | Power BI, Power Query, DAX |
 | 👨‍💼 Data Professional Survey Analysis | HR Analytics | Power BI, Power Query, DAX |
+
+---
+
+## 📑 Microsoft Excel Business Reporting Projects
+
+| Project | Business Domain | Tools |
+|----------|----------------|--------|
+| 📋 Customer & Sales Business Reporting | Healthcare | Microsoft Excel, Pivot Tables, VLOOKUP, Power Query |
 
 ---
 
@@ -73,62 +85,96 @@ I enjoy building analytical solutions that help stakeholders understand business
 
 Depending on the project type, repositories include:
 
-- Business Problem
-- Project Objectives
-- Dataset Overview
-- Data Cleaning Process
-- SQL Queries
-- Data Modeling
-- Dashboard Development
-- KPI Analysis
-- Business Insights
-- Business Recommendations
-- Screenshots
-- Project Documentation
+- 📌 Business Problem
+- 🎯 Project Objectives
+- 📂 Repository Structure
+- 📊 Dashboard / Business Report Preview
+- 📈 Exploratory Data Analysis
+- 🧹 Data Cleaning Process
+- 🗄 SQL Queries
+- 🔄 Data Transformation
+- 📋 Business Reporting
+- 📉 KPI Analysis
+- 💡 Business Insights
+- 🚀 Business Value
+- 🖼 Screenshots
+- 📝 Project Documentation
 
 ---
 
 # 📈 Analytics Skills Demonstrated
 
-## SQL
+## 🗄 SQL
 
 - Data Cleaning
 - Duplicate Removal
 - Data Standardization
 - Missing Value Handling
+- Aggregate Functions
+- GROUP BY
+- ORDER BY
+- CASE WHEN
 - Window Functions
-- Common Table Expressions (CTE)
+- Date Functions
 - Data Validation
 - Query Optimization
 
 ---
 
-## Data Analysis
+## 📊 Microsoft Excel
 
-- Exploratory Data Analysis (EDA)
-- Sales Analysis
-- Customer Analytics
-- Marketing Analytics
-- Business Performance Analysis
-- Trend Analysis
-- KPI Analysis
-- Data Storytelling
+- Pivot Tables
+- VLOOKUP
+- SUM
+- SUMIF
+- COUNT
+- COUNTA
+- IF
+- IFERROR
+- Data Filtering
+- Data Sorting
+- Conditional Formatting
+- Data Validation
+- Cell Referencing
+- Multi-sheet Data Management
+- Business Reporting
 
 ---
 
-## Power BI
+## 📈 Power BI
 
-- Dashboard Development
 - Power Query
 - Data Modeling
 - Relationships
 - DAX Measures
 - Calculated Columns
 - Time Intelligence
-- Dynamic Filtering
+- KPI Development
+- Dashboard Design
 - Interactive Reports
-- Bookmarks
+- Dynamic Filtering
 - Tooltips
+- Bookmarks
+
+---
+
+## 📊 Business Analytics
+
+- Exploratory Data Analysis (EDA)
+- Sales Analysis
+- Customer Analytics
+- Customer Retention Analysis
+- Cohort Analysis
+- Marketing Analytics
+- Product Performance Analysis
+- Business Performance Analysis
+- Revenue Analysis
+- KPI Analysis
+- Trend Analysis
+- Business Reporting
+- Business Intelligence
+- Data Storytelling
+- Data-Driven Decision Making
 
 ---
 
@@ -139,6 +185,7 @@ Depending on the project type, repositories include:
 - 🛒 E-commerce Analytics
 - 📢 Marketing Analytics
 - 👥 Customer Analytics
+- 🏥 Healthcare Analytics
 - 👨‍💼 HR Analytics
 - 📈 Business Performance Analytics
 
@@ -146,7 +193,7 @@ Depending on the project type, repositories include:
 
 # 🚀 End-to-End Analytics Workflow
 
-This portfolio demonstrates a complete analytics workflow:
+This portfolio demonstrates a complete analytics workflow from raw data to business decision support.
 
 ```text
 Raw Data
@@ -162,16 +209,21 @@ Data Transformation
 Exploratory Data Analysis
     │
     ▼
+Business Reporting
+(Microsoft Excel)
+    │
+    ▼
 Data Modeling
     │
     ▼
 Dashboard Development
+(Power BI)
     │
     ▼
 Business Insights
     │
     ▼
-Recommendations
+Strategic Recommendations
 ```
 
 ---
@@ -180,20 +232,20 @@ Recommendations
 
 If you'd like to discuss data analytics, collaborate on projects, or connect professionally, feel free to reach out.
 
-### LinkedIn
+### 💼 LinkedIn
 
 > https://www.linkedin.com/in/kennedymarthendra/
 
-### Portfolio
+### 🌐 Portfolio
 
 > https://bit.ly/Portofolio_KennedyMar
 
-### Email
+### 📧 Email
 
 > kennedymarthendra@gmail.com
 
 ---
 
-⭐ Thank you for visiting my Data Analytics Portfolio!
+# ⭐ Thank You
 
-I hope these projects demonstrate not only my technical skills in SQL and Power BI, but also my ability to solve business problems through data.
+Thank you for visiting my Data Analytics Portfolio!
