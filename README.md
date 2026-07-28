@@ -47,7 +47,7 @@ I enjoy building dashboards that help stakeholders monitor business performance 
 | Project | Business Domain | Tools |
 |----------|----------------|--------|
 | 🍕 Pizza Sales Analysis | Retail & Food | Power BI, SQL, DAX |
-| ☕ Coffee Shop Sales Analysis | Retail | Power BI |
+| ☕ Coffee Shop Sales Analysis | Retail | Power BI, SQL, DAX |
 | 🛒 Blinkit Sales Dashboard | E-commerce | Power BI |
 | 📦 Amazon Sales Dashboard | E-commerce | Power BI |
 | 📢 Meta Ads Performance Dashboard | Digital Marketing | Power BI |
