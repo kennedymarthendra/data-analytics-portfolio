@@ -37,6 +37,7 @@ The coffee shop management required a centralized reporting solution to monitor 
 |-----------|-------|
 | Database | MySQL |
 | Data Visualization | Power BI |
+| Data Preparation | Power Query |
 | Data Modeling | DAX |
 | Data Source | Microsoft Excel |
 
