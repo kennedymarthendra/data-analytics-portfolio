@@ -12,7 +12,7 @@ This project presents an interactive Power BI dashboard to analyze pizza sales p
 
 - Power BI
 - DAX
-- Microsoft Excel
+- SQL
 
 ## Dashboard Features
 
