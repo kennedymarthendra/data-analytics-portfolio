@@ -2,29 +2,33 @@
 
 Welcome to my Data Analytics Portfolio!
 
-This repository showcases a collection of end-to-end data analytics projects developed using **Power BI, SQL, and Microsoft Excel**. Each project focuses on solving real-world business problems through data cleaning, analysis, visualization, and actionable business insights.
+This repository showcases a collection of end-to-end data analytics projects developed using **Power BI, SQL, Microsoft Excel, and Power Query**. The projects demonstrate the complete analytics workflow—from raw data preparation and SQL-based data cleaning to interactive dashboard development and business insight generation.
 
-The projects cover multiple industries including Retail, E-commerce, Marketing, Healthcare, Food & Beverage, and Human Resources.
+Each project is designed to solve real-world business problems by transforming raw data into meaningful insights that support data-driven decision making.
+
+The portfolio covers multiple industries including **Retail, E-commerce, Marketing, Human Resources, Food & Beverage, and Customer Analytics.**
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a Data Analyst with a background in Statistics who enjoys transforming raw data into meaningful business insights.
+I'm a Data Analyst with a background in Statistics who enjoys transforming raw data into actionable business insights.
 
 My experience includes:
 
 - Data Cleaning & Preparation
+- SQL Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Dashboard Development
 - Business Performance Analysis
-- Customer Analytics
-- Marketing Analytics
 - Sales Analytics
+- Marketing Analytics
+- Customer Analytics
+- HR Analytics
 - KPI Monitoring
 - Data Storytelling
 
-I enjoy building dashboards that help stakeholders monitor business performance and support data-driven decision making.
+I enjoy building analytical solutions that help stakeholders understand business performance, identify opportunities, and make data-driven decisions.
 
 ---
 
@@ -33,110 +37,163 @@ I enjoy building dashboards that help stakeholders monitor business performance 
 | Category | Tools |
 |----------|---------|
 | Business Intelligence | Power BI |
-| Database | SQL |
+| Database | MySQL, SQL |
 | Spreadsheet | Microsoft Excel |
-| Data Modeling | Power Query |
+| Data Preparation | Power Query |
 | Analytics | DAX |
-| Visualization | Power BI |
+| Data Cleaning | SQL, Power Query |
 | Version Control | Git & GitHub |
 
 ---
 
-# 📁 Featured Projects
+# 📂 Featured Projects
+
+## 📈 Business Intelligence & Dashboard Projects
 
 | Project | Business Domain | Tools |
 |----------|----------------|--------|
 | 🍕 Pizza Sales Analysis | Retail & Food | Power BI, Power Query, SQL, DAX |
 | ☕ Coffee Shop Sales Analysis | Retail | Power BI, Power Query, SQL, DAX |
-| 🛒 Blinkit Sales Dashboard | E-commerce | Power BI, Power Query, DAX |
-| 📦 Amazon Sales Dashboard | E-commerce | Power BI, Power Query, DAX |
-| 📢 Meta Ads Performance Dashboard | Digital Marketing | Power BI, Power Query, DAX |
-| 👨‍💼 Data Professional Survey Dashboard | HR Analytics | Power BI, Power Query, DAX |
+| 🛒 Blinkit Sales Analysis | Retail & E-commerce | Power BI, Power Query, DAX |
+| 📦 Amazon Sales Analysis | E-commerce | Power BI, Power Query, DAX |
+| 📢 Meta Ads Performance Analysis | Digital Marketing | Power BI, Power Query, DAX |
+| 👨‍💼 Data Professional Survey Analysis | HR Analytics | Power BI, Power Query, DAX |
+
+---
+
+## 🧹 SQL Projects
+
+| Project | Description | Tools |
+|----------|-------------|--------|
+| 🗂 SQL Data Cleaning | End-to-end SQL data cleaning workflow including duplicate removal, data standardization, missing value handling, and dataset preparation. | MySQL, SQL |
 
 ---
 
 # 📌 What You'll Find in Each Project
 
-Every project contains:
+Depending on the project type, repositories include:
 
 - Business Problem
+- Project Objectives
 - Dataset Overview
 - Data Cleaning Process
-- Data Model
-- Dashboard
+- SQL Queries
+- Data Modeling
+- Dashboard Development
 - KPI Analysis
 - Business Insights
-- Recommendations
+- Business Recommendations
 - Screenshots
+- Project Documentation
 
 ---
 
 # 📈 Analytics Skills Demonstrated
 
-### Data Analysis
+## SQL
 
 - Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis
-- KPI Analysis
-- Trend Analysis
-- Customer Analysis
+- Duplicate Removal
+- Data Standardization
+- Missing Value Handling
+- Window Functions
+- Common Table Expressions (CTE)
+- Data Validation
+- Query Optimization
+
+---
+
+## Data Analysis
+
+- Exploratory Data Analysis (EDA)
 - Sales Analysis
-- Marketing Analysis
+- Customer Analytics
+- Marketing Analytics
+- Business Performance Analysis
+- Trend Analysis
+- KPI Analysis
+- Data Storytelling
 
-### Dashboard Development
+---
 
-- Interactive Dashboards
-- Drill-through Reports
-- Dynamic Filtering
-- KPI Cards
-- Time Intelligence
-- Responsive Layout
+## Power BI
 
-### Power BI
-
-- DAX
+- Dashboard Development
 - Power Query
 - Data Modeling
 - Relationships
+- DAX Measures
 - Calculated Columns
-- Measures
+- Time Intelligence
+- Dynamic Filtering
+- Interactive Reports
 - Bookmarks
 - Tooltips
 
 ---
 
-# 🎯 Business Areas
+# 🎯 Business Domains
 
-✔ Sales Analytics
+- 🍕 Retail & Food Analytics
+- ☕ Coffee Shop Analytics
+- 🛒 E-commerce Analytics
+- 📢 Marketing Analytics
+- 👥 Customer Analytics
+- 👨‍💼 HR Analytics
+- 📈 Business Performance Analytics
 
-✔ Marketing Analytics
+---
 
-✔ Customer Analytics
+# 🚀 End-to-End Analytics Workflow
 
-✔ Retail Analytics
+This portfolio demonstrates a complete analytics workflow:
 
-✔ Healthcare Analytics
-
-✔ HR Analytics
-
-✔ Financial Performance
+```text
+Raw Data
+    │
+    ▼
+Data Cleaning
+(SQL / Power Query)
+    │
+    ▼
+Data Transformation
+    │
+    ▼
+Exploratory Data Analysis
+    │
+    ▼
+Data Modeling
+    │
+    ▼
+Dashboard Development
+    │
+    ▼
+Business Insights
+    │
+    ▼
+Recommendations
+```
 
 ---
 
 # 🤝 Let's Connect
 
-If you'd like to discuss data analytics, collaborate, or connect professionally, feel free to reach out.
+If you'd like to discuss data analytics, collaborate on projects, or connect professionally, feel free to reach out.
 
-**LinkedIn**
+### LinkedIn
+
 > https://www.linkedin.com/in/kennedymarthendra/
 
-**Portfolio**
+### Portfolio
+
 > https://bit.ly/Portofolio_KennedyMar
 
-**Email**
+### Email
+
 > kennedymarthendra@gmail.com
 
 ---
 
-⭐ Thank you for visiting my portfolio!
+⭐ Thank you for visiting my Data Analytics Portfolio!
+
+I hope these projects demonstrate not only my technical skills in SQL and Power BI, but also my ability to solve business problems through data.
