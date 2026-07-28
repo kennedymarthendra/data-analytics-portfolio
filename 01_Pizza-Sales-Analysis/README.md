@@ -151,23 +151,28 @@ The transactional sales data was explored using **MySQL** to answer key business
 
 ### SQL Techniques
 
+- Data Cleaning
+- Data Type Conversion
 - Aggregate Functions
 - GROUP BY
 - ORDER BY
-- CASE WHEN
+- LIMIT
 - Date Functions
-- Ranking Functions
-- Sales Aggregation
+- CASE WHEN
+- Common Table Aggregation
+- Business KPI Calculation
 
 ### Business Questions Answered
 
-- What is the total revenue?
-- Which pizzas generate the highest revenue?
-- Which products perform the best and worst?
-- Which day records the highest sales?
-- Which month generates the highest revenue?
-- Which pizza category contributes the most sales?
-- Which pizza size generates the highest revenue?
+- What is the overall sales performance?
+- How much total revenue was generated?
+- How many customer orders and pizzas were sold?
+- What is the average order value?
+- Which days and months recorded the highest sales?
+- Which pizza categories and sizes contributed the most revenue?
+- Which products were the top-performing pizzas?
+- Which products consistently underperformed?
+- What were the Top 5 and Bottom 5 pizzas by revenue, quantity sold, and total orders?
 
 ---
 
