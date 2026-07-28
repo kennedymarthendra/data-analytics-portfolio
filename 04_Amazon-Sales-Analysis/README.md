@@ -76,6 +76,7 @@ The dashboard provides an overview of Amazon sales performance through interacti
 | Category | Tools |
 |-----------|-------|
 | Data Visualization | Power BI |
+| Data Preparation | Power Query |
 | Data Modeling | DAX |
 | Data Source | Microsoft Excel |
 
