@@ -51,7 +51,7 @@ To solve these challenges, an interactive dashboard was developed to transform r
 # 📂 Repository Structure
 
 ```
-Pizza-Sales-Analysis
+01_Pizza-Sales-Analysis
 │
 ├── README.md
 │
